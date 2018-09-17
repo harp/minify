@@ -1,7 +1,13 @@
 # minify
+Is a API Wrapper for HTML, CSS, JS, IMAGE Minifyers
 
-Super clean API for minifying Javascript, HTML or CSS.
+## Importent Note
+This Should maybe not get used and so we depricate it in favor of the nativ minifyers.
+we come to the conclusion that this api wrapper doubles logic
 
+
+
+Offering a Super clean API for minifying Javascript, HTML or CSS.
 So you don't have to keep googling for the right tool or the tool’s API. And so that you get a nice CLI regardless.
 
 This is [Harp](https://github.com/sintaxi/harp)’s fork, which is nearly identical to [the original](https://github.com/ianstormtaylor/minify). The differences are:
