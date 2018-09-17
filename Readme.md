@@ -1,5 +1,8 @@
 # minify
 
+Is a API Wrapper for HTML, CSS, JS, IMAGE Minifyers
+
+
 Super clean API for minifying Javascript, HTML or CSS.
 
 So you don't have to keep googling for the right tool or the tool’s API. And so that you get a nice CLI regardless.
