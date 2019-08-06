@@ -1,7 +1,7 @@
 {
   "name": "harp-minify",
   "repository": "git://github.com/harp/minify.git",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "license": "MIT",
   "description": "Simple, clean API for minifying Javascript, HTML or CSS.",
   "keywords": [
