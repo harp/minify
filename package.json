@@ -15,11 +15,11 @@
   },
   "dependencies": {
     "html-minifier": "3.5.21",
-    "commander": "2.13.0",
+    "commander": "2.19.0",
     "language-classifier": "0.0.1",
     "read-file-stdin": "0.2.1",
     "sqwish": "0.2.2",
-    "uglify-js": "3.3.2",
+    "uglify-js": "3.5.2",
     "write-file-stdout": "0.0.2"
   },
   "devDependencies": {
